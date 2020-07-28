@@ -1,0 +1,15 @@
+div #out{
+    border:1px solid #0000ff;
+    margin: 10px auto;
+    width: 70%;
+}
+.forward-button{
+    margin: auto;
+    background-color: #5fd5f5;
+    color: black;
+}
+.back-button{
+    margin: auto;
+    background-color: grey;
+    color: white;
+}

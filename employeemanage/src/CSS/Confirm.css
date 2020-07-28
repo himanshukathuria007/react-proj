@@ -1,0 +1,32 @@
+.restaurant-card{
+    width: 40%;
+    border: 1px solid blue;
+    border-radius: 4px;
+    margin: 10px auto;
+}
+.restaurant-details{
+    width: 70%;
+    margin-top: 10px;
+    display: inline-block;
+}
+.info-row{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.field-name{
+    float: left;
+    width: 30%;
+    text-align: end;
+    margin-right: 10px;
+    font-weight: bold;
+    color: black;
+}
+.field-value{
+    float: right;
+    width: 65%;
+    text-align: start;
+    white-space: normal;
+    word-break: break-word;
+    color: black;
+}

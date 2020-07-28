@@ -1,0 +1,300 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "name": "Lovepreet",
+      "username": "ww",
+      "email": "h.m.s.beaglecheckmate@gmail.com",
+      "phone": "wqwqwqw",
+      "website": "wqwqwqwqw",
+      "id": 6
+    },
+    {
+      "name": "gfgfdgdfg",
+      "username": "dfgdfgdfgdfgd",
+      "email": "gdfgdfgdfgdfg@mail.com",
+      "phone": "21wqewqewqeqw",
+      "website": "eqweqweqweqw",
+      "id": 7
+    },
+    {
+      "name": "h k007",
+      "username": "admin1",
+      "email": "himanshukathuria61@outlook.com",
+      "phone": "123445678",
+      "website": "qwer@",
+      "id": 8
+    },
+    {
+      "name": "Lovepreet",
+      "username": "Himanshukathuria61@gmail.com",
+      "email": "h.m.s.beaglecheckmate@gmail.com",
+      "phone": "89000000000",
+      "website": "ddfsgfggfdgfdg",
+      "id": 9
+    },
+    {
+      "name": "anmol",
+      "username": "anni",
+      "email": "anmol@gmail.com",
+      "phone": "789456123",
+      "website": "12345667888u",
+      "id": 10
+    },
+    {
+      "name": "12345",
+      "username": "csddds",
+      "email": "fdfdfdfdfd@mail.com",
+      "phone": "fdfdfdfdf",
+      "website": "fdfdfdfdf",
+      "id": 11
+    },
+    {
+      "name": "vikas",
+      "username": "gupta",
+      "email": "vg@mail.com",
+      "phone": "789456123",
+      "website": "abc1231.com",
+      "id": 12
+    },
+    {
+      "name": "Himanshu",
+      "username": "dededed",
+      "email": "dedededed@mail.com",
+      "phone": "7988033461",
+      "website": "dededede",
+      "id": 13
+    },
+    {
+      "email": "h.m.s.beaglecheckmate@gmail.com",
+      "password": "",
+      "address": "adfafffdadfa",
+      "dateOfBirth": "01/01/1990",
+      "phoneNumber": "121-212-1212",
+      "gender": "male",
+      "packageType": 1,
+      "name": "Lovepreet",
+      "userName": "singh",
+      "id": 14,
+      "username": "admin1",
+      "phone": "fdgfgfgdfg",
+      "website": "dgfdgdfgdg"
+    },
+    {
+      "email": "himanshukathuria61@outlook.com",
+      "name": "h k",
+      "username": "gfgf",
+      "address": "gffgfgf",
+      "dateOfBirth": "01/01/1990",
+      "phone": "",
+      "gender": "male",
+      "packageType": 1,
+      "phoneNumber": "333-344-4444",
+      "id": 15
+    },
+    {
+      "email": "himanshukathuria61@outlook.com",
+      "name": "him",
+      "username": "k",
+      "address": "address",
+      "dateOfBirth": "01/01/1990",
+      "phone": "",
+      "gender": "male",
+      "packageType": 1,
+      "phoneNumber": "121-212-1212",
+      "id": 16
+    },
+    {
+      "email": "Himanshukathuria61@outlook.com",
+      "firstname": "Himanshu",
+      "lastname": "Kathuria",
+      "phone": "0895089229",
+      "currentaddress": "A-29 rama Road, adarsh nagar",
+      "permanentaddress": "Novelty road opposite petrol pump",
+      "img": "",
+      "company": "gftsrtyutdffg",
+      "fromdate": "2020-06-29",
+      "todate": "2020-08-08",
+      "designation": "hgcfghjk",
+      "packageType": 1,
+      "course": "bcvjhgchvjgcgcghvhcgvgcvh",
+      "collage": "nhfxghvgcgghggcxc",
+      "year": "2232",
+      "percentage": "12",
+      "id": 18
+    },
+    {
+      "email": "himanshukathuria61@outlook.com",
+      "firstname": "h",
+      "lastname": "k",
+      "phone": "8950892290",
+      "currentaddress": "hno141",
+      "permanentaddress": "Novelty road",
+      "img": "",
+      "company": "sasdasdasd",
+      "fromdate": "2020-07-05",
+      "todate": "2020-07-31",
+      "designation": "cxzczxczxc",
+      "packageType": 1,
+      "course": "33r3r",
+      "collage": "sfafdfdsfs",
+      "year": "3224",
+      "percentage": "234",
+      "id": 19
+    },
+    {
+      "email": "Himanshukathuria61@outlook.com",
+      "firstname": "Himanshu",
+      "lastname": "Kathuria",
+      "phone": "7988033461",
+      "currentaddress": "A-29 rama Road, adarsh nagar",
+      "permanentaddress": "sadar bazar",
+      "company": "erreertet",
+      "fromdate": "2020-06-30",
+      "todate": "2020-07-04",
+      "designation": "aaffdsfsdf",
+      "img": "C",
+      "course": "sdfdsfs",
+      "collage": "fdsfdsfsf",
+      "year": "4242",
+      "percentage": "232",
+      "id": 20
+    },
+    {
+      "email": "Himanshukathuria61@outlook.com",
+      "firstname": "Himanshu",
+      "lastname": "Kathuria",
+      "phone": "7988033461",
+      "currentaddress": "A-29 rama Road, adarsh nagar",
+      "permanentaddress": "sadar bazar",
+      "company": "erreertet",
+      "fromdate": "2020-06-30",
+      "todate": "2020-07-04",
+      "designation": "aaffdsfsdf",
+      "img": "C",
+      "course": "sdfdsfs",
+      "collage": "fdsfdsfsf",
+      "year": "4242",
+      "percentage": "232",
+      "linkedin": "dsfsfsdfsdf",
+      "github": "fsfsfsdfsdf",
+      "facebook": "fsdfsfsdfsfsf",
+      "hobbies": "fsfsfsdfsdfsdfsdf",
+      "id": 21
+    }
+  ]
+}
